@@ -1,3 +1,3 @@
 # startup
 
-cirleacatalin.github.io
+https://cirleacatalin.github.io/startup/
